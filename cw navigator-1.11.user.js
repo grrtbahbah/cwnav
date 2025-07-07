@@ -6,7 +6,7 @@
 // @author       emoji
 // @match        https://catwar.net/cw3/
 // @grant        none
-// @license      MIT; https://opensource.org/licenses/MIT
+// @license      MIT
 // ==/UserScript==
 
 (function() {
